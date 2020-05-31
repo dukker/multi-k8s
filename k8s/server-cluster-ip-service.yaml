@@ -8,5 +8,5 @@ spec:
     component: server
   ports:
     - port: 5000
-      typePort: 5000
+      targetPort: 5000
 
